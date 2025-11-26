@@ -1,4 +1,4 @@
-オブザーバビリティが好きです。最近は執筆活動に力を入れています。
+オブザーバビリティが好きです。最近は執筆活動に力を入れています。個人活動として友人と一緒に[ハッカー飯](https://hackermeshi.com/)というコミュニティサイトの開発と運営もやっています。
 
 **技術同人誌**
 - [国産サービスで実践するオブザーバビリティ入門 [第二弾]](https://techbookfest.org/product/65LjNV8EGtYhgG72ZLzA1i?productVariantID=v9rD5HaP3yG3zNqW1c1WV4)
